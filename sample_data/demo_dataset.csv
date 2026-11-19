@@ -1,0 +1,47 @@
+employee_id,full_name,email,phone,department,hire_date,salary,city,status,performance_score
+EMP-101,Alexander Scott,alex.scott@example.com,(555) 014-2391,Engineering,2021-06-15,115000,New York,Active,4.8
+EMP-102,  Victoria Adams,vic.adams@example.com,555-018-9923,engineering,08/20/2020,98500,new york,active,4.5
+EMP-103,Benjamin Moore,ben.moore@example.com,555.019.4421,ENGINEERING,2019/03/10,125000,San Francisco,ACTIVE,4.9
+EMP-104,Chloe Bennett,chloe.b@example.com,5550123399,Marketing,12-05-2022,85000,Chicago,Active,4.2
+EMP-105,Daniel Jackson,daniel.j@example.com,555-010-5511,Sales,2021-04-12,72000,Chicago,Active,4.2
+EMP-106,Grace Sullivan,grace.s@example.com,555-019-9432,Finance,15-Jan-2021,-5000,Boston,On Leave,4.6
+EMP-107,Samuel Ortiz,samuel.ortiz@example.com,phone123,SALES,2022-09-01,78000,  Austin  ,Active,4.0
+EMP-108,Mia Chen,,(555) 234-8891,Engineering,03/14/2022,108000,Seattle,active,4.7
+EMP-109,Hannah Wright,hannah.w@example.com,555-015-5789,HR,15/07/2021,65000,NEW YORK,Active,4.3
+EMP-110,Jack Richardson,jack.r@example.com,123,Human Resources,2020-10-30,68000,NY,active,4.1
+EMP-111,Sophia Rodriguez  ,sophia.r@example.com,+1-555-789-0123,Eng.,"January 15, 2023",118000,san francisco,Active,4.6
+EMP-112,Hannah Abbott,hannah.a@example.com,,marketing,2022/11/05,82000,Chicago,Active,3.9
+EMP-113,Lucas Vance,john@,555-345-6789,FINANCE,2018-05-22,130000,New York,Active,4.8
+EMP-114,David Kim,david.kim@example.com,(555) 456-7890,Engineering,14-08-2022,112000,,on leave,4.4
+EMP-115,Emma Watson   ,alice@company,555.567.8901,Marketing,2021-02-18,91000,  San Francisco,ACTIVE,4.5
+EMP-103,Benjamin Moore,ben.moore@example.com,555.019.4421,ENGINEERING,2019/03/10,125000,San Francisco,ACTIVE,4.9
+EMP-116,Victoria Chen,v.chen@example.com,555-011-7722,Engineering,2020-02-15,115000,Seattle,Active,4.7
+EMP-117,Kevin Malone,kevin.m@example.com,555-678-9012,,2017-09-01,0,Scranton,Active,2.8
+EMP-118,Alice Johnson,missing-at-sign.com,(555) 789-0123,Sales,04/11/2018,74000,Los Angeles,active,3.7
+EMP-119,Oscar Martinez,oscar.m@example.com,555-890-1234,Finance,2016-03-20,,Scranton,ACTIVE,4.9
+EMP-120,Liam Martinez,liam.m@example.com,(555) 901-2345,engineering,2022-07-14,105000,Seattle,Active,4.4
+EMP-121,Noah Tremblay,noah.t@example.com,phone456,Marketing,"October 05, 2021",89000,Boston,Active,4.0
+EMP-122,Olivia Garcia,olivia.g@example.com,555-012-3456,HR,2023-03-18,9999999,Los Angeles,Probation,3.5
+EMP-123,Carlos Mendez,,(555) 123-9988,Sales,12/01/2021,71000,LA,active,3.8
+EMP-124,Ethan Davis,ethan.d@example.com,555.678.1122,Customer Support,2020-08-12,58000,Chicago,Terminated,3.2
+EMP-125,Ava Robinson,ava.r@example.com,555-234-5566,customer support,2022-04-25,62000,chicago,active,4.1
+EMP-109,Hannah Wright,hannah.w@example.com,555-015-5789,HR,15/07/2021,65000,NEW YORK,Active,4.3
+EMP-126,Mason Lee,mason.lee@example.com,5550198822,human resources,2019-11-15,67000,NY,ACTIVE,4.3
+EMP-127,Isabella Hall,isabella.h@example.com,(555) 345-9900,Finance,05.11.2020,95000,New York,Active,4.6
+EMP-128,Aiden Wilson,robert@@domain.com,555-456-1133,Engineering,2021-10-10,122000,Seattle,Active,4.8
+EMP-129,Harper Young,harper.y@example.com,555-567-2244,Sales,2022-01-20,76000,los angeles,ON LEAVE,4.1
+EMP-130,Fiona Gallagher,fiona.g@example.com,,Marketing,2018-06-30,88000,Chicago,Terminated,4.0
+EMP-131,Elijah King,elijah.k@example.com,(555) 678-3355,Eng.,2023-02-14,110000,SF,Active,4.5
+EMP-132,Charlotte Clark,samuel..white@domain.org,555.789.4466,finance,19-May-2022,94000,Boston,active,4.3
+EMP-120,Liam Martinez,liam.m@example.com,(555) 901-2345,engineering,2022-07-14,105000,Seattle,Active,4.4
+EMP-105,Daniel Jackson Jr.,djackson.jr@example.com,555-019-5599,Marketing,2023-08-01,68000,Chicago,Active,3.8
+EMP-133,James Wilson,james.w@example.com,+1-555-890-5577,Engineering,2020-04-05,128000,New York,ACTIVE,4.9
+EMP-134,Rachel Green,rachel.g@example.com,555-901-6688,,2019-12-01,73000,new york,active,3.9
+EMP-135,Amelia Taylor,amelia.t@example.com,555.012.7799,Sales,09/18/2021,79000,Austin,Active,4.4
+EMP-136,Logan Brooks,logan.b@example.com,555-123-8800,Human Resources,2021-05-28,64000,San Francisco,Probation,3.6
+EMP-116,Victoria Chen-Smith,v.chensmith@work.org,555-018-8833,Finance,2022-11-10,120000,Seattle,Active,4.6
+EMP-137,Angela Martin,angela.m@example.com,(555) 234-9911,Finance,2017-08-15,,Scranton,Active,4.8
+EMP-138,Henry Evans,henry.e@example.com,555-345-0022,ENGINEERING,2023-04-10,103000,Austin,probation,3.7
+EMP-139,Chloe Diaz,chloe.d@example.com,(555) 456-1133,Sales,11-Feb-2022,75000,  Los Angeles  ,Active,4.2
+EMP-140,Marcus Bell,marcus.b@example.com,000-000-0000,Marketing,2022-06-18,-15000,SF,terminated,2.5
+EMP-141,Nathan Drake,nathan.d@example.com,(555) 987-1234,Sales,2021-08-19,83000,New York,Active,4.3
